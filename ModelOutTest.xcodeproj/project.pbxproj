@@ -13,7 +13,6 @@
 		B8E5E8211D55AE1500DD333D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8E5E81F1D55AE1500DD333D /* Main.storyboard */; };
 		B8E5E8231D55AE1500DD333D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B8E5E8221D55AE1500DD333D /* Assets.xcassets */; };
 		B8E5E8261D55AE1500DD333D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B8E5E8241D55AE1500DD333D /* LaunchScreen.storyboard */; };
-		B8E5E82F1D55B52400DD333D /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8E5E82E1D55B52400DD333D /* SecondViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,8 +26,6 @@
 		B8E5E8221D55AE1500DD333D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B8E5E8251D55AE1500DD333D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B8E5E8271D55AE1500DD333D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B8E5E82D1D55B52400DD333D /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
-		B8E5E82E1D55B52400DD333D /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,8 +67,6 @@
 				B8E5E8241D55AE1500DD333D /* LaunchScreen.storyboard */,
 				B8E5E8271D55AE1500DD333D /* Info.plist */,
 				B8E5E8161D55AE1500DD333D /* Supporting Files */,
-				B8E5E82D1D55B52400DD333D /* SecondViewController.h */,
-				B8E5E82E1D55B52400DD333D /* SecondViewController.m */,
 			);
 			path = ModelOutTest;
 			sourceTree = "<group>";
@@ -157,7 +152,6 @@
 			files = (
 				B8E5E81E1D55AE1500DD333D /* ViewController.m in Sources */,
 				B8E5E81B1D55AE1500DD333D /* AppDelegate.m in Sources */,
-				B8E5E82F1D55B52400DD333D /* SecondViewController.m in Sources */,
 				B8E5E8181D55AE1500DD333D /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
