@@ -6,13 +6,13 @@
 //  Copyright © 2016 Karthiik PS. All rights reserved.
 //
 
-#import "SSViewController.h"
+#import "SecondViewController.h"
 
-@interface SSViewController ()
+@interface SecondViewController ()
 
 @end
 
-@implementation SSViewController
+@implementation SecondViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
